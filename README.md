@@ -1,4 +1,4 @@
-# Poverty Analysis in Eastern Indonesia Using Regression
+# Poverty Analysis in Eastern Indonesia Using Multiple Regression
 
 A group project for the **Regression Analysis** course at **BINUS University**.
 
