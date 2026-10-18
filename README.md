@@ -1,0 +1,1 @@
+# Poverty-Analysis-in-Eastern-Indonesia-Using-Regression
