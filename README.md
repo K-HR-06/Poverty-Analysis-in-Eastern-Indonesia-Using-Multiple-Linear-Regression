@@ -86,8 +86,6 @@ Results are taken from the supplied report and code comments and have not been i
 2. Correct `vif(model_gls)ss` to `vif(model_gls)`.
 3. Run the main analysis and select the supplied CSV when prompted.
 
-The final section labeled `GA DIPAKE!` contains unused Ridge and Lasso experiments. It references columns absent from the supplied dataset and should be skipped when reproducing the main analysis.
-
 ## Authors
 
 **Group 8 — BINUS University**
